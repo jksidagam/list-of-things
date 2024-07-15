@@ -1,0 +1,15 @@
+.lot_insert_form_response {
+    padding: 10px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.lot_insert_form_response.response_success {
+    background-color: green;
+    color: #fff;
+}
+
+.lot_insert_form_response.response_failed {
+    background-color: red;
+    color: #fff;
+}
